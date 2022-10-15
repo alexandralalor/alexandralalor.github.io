@@ -6,3 +6,5 @@
 - author avatar photo
 
 ## _data/navigation.yml
+
+- link cv tab to pdf of cv (in files folder)
