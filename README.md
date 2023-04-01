@@ -8,3 +8,7 @@
 ## _data/navigation.yml
 
 - link cv tab to pdf of cv (in files folder)
+
+## _pages
+
+- change first page of website
