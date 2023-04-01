@@ -14,3 +14,4 @@
 ## _pages
 
 - change first page of website
+- link tabs with content
