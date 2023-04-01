@@ -9,6 +9,7 @@
 
 - link cv tab to pdf of cv (in files folder)
 - change tab names
+- add new tabs
 
 ## _pages
 
