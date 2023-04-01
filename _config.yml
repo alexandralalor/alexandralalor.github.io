@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexandra R. Lalor"
   avatar           : "Lalor_photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "<a href="https://pronouns.org/what-and-why">she/her</a>"
   location         : "Tucson, AZ"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alexandra-lalor/"
+  linkedin         : "alexandra-lalor/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
