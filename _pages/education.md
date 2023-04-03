@@ -11,6 +11,7 @@ author_profile: true
 #### Master of Science in Natural Resource Management
 #### Thesis: "Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient"
 
+[Introduction to Dendrochronology](https://drive.google.com/file/d/1vmMR2SZecXl6uwIIanz3JU0fGLLR-vZa/view?usp=share_link); [Introduction to Wildland Fire](https://drive.google.com/file/d/19-FNZl5D75SZcgo9eGAZ-ZIgdWOjQta1/view?usp=share_link);
 
 ## University of California, Berkeley
 ### College of Natural Resources
