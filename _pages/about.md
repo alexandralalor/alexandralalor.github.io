@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is a blurb about me
+Welcome to my website! I'm still learning how to set this up, so please be patient for content.
