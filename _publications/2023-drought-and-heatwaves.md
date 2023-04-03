@@ -11,7 +11,7 @@ This paper is in review with the journal Frontiers in Forests and Global Change
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-[Watch presentation here](http://exampleurl.com)
+[Watch presentation here](https://drive.google.com/file/d/1QCHuH0ctrdT2NBZM6FL_PqFMhkCb07DI/view?usp=share_link)
 
 **Abstract:**
 
