@@ -1,6 +1,6 @@
 ---
-title: "Piece Number 1"
+title: "Ceramics Number 1"
 collection: ceramics
-permalink: /ceramics/piece-1
+permalink: /ceramics/ceramics-1
 excerpt: 'This is my first piece.'
 ---
