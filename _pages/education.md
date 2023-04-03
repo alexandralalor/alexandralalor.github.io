@@ -12,7 +12,15 @@ author_profile: true
 
 **Thesis:** [Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient](https://alexandralalor.github.io/files/paper1.pdf)
 
-**Coursework:** [Introduction to Dendrochronology](https://drive.google.com/file/d/1vmMR2SZecXl6uwIIanz3JU0fGLLR-vZa/view?usp=share_link); [Introduction to Wildland Fire](https://drive.google.com/file/d/19-FNZl5D75SZcgo9eGAZ-ZIgdWOjQta1/view?usp=share_link); [Principles of Research](https://drive.google.com/file/d/1Y9snJkN29VYEcomwTC2MmeEV1ArReC4x/view?usp=share_link); [Forest Ecology](https://drive.google.com/file/d/1tB2eR9P_WNcn2D55hGkei5Dz-CWGT_7C/view?usp=share_link); [Dryland Ecohydrology and Vegetation Dynamics](https://drive.google.com/file/d/1Z_DUyMc4o5LQeDdAp_5hDoTgZ4ZePE2v/view?usp=share_link); [Data Visualization and Analysis](https://drive.google.com/file/d/1eCmg2LH1hL_0IAlethGr-Urmy_kBDiav/view?usp=share_link); [Applied Statistics](https://drive.google.com/file/d/13WJWdjHjnCFJmFG1Tc1PzfwIHAWOCloq/view?usp=share_link); [Working with Ecological Data in R](https://drive.google.com/file/d/1NvILudN3xk5MAi2xEZXi67mYftpce-1l/view?usp=share_link); [Ecological Surveys and Sampling](https://drive.google.com/file/d/1CJ2LzVQCSsGiK5FpGg2Xv6lDZeNrAPZl/view?usp=share_link)
+**Coursework:** 
+[Introduction to Dendrochronology](https://alexandralalor.github.io/files/coursework/GEOG-539A_syllabus_Introduction-to-Dendrochronology.pdf); 
+[Introduction to Wildland Fire](https://alexandralalor.github.io/files/coursework/RNR-355_syllabus_Introduction-to-Wildland-Fire.pdf); 
+[Principles of Research](https://alexandralalor.github.io/files/coursework/RNR-546_syllabus_Principles-of-Research.pdf); 
+[Forest Ecology](https://alexandralalor.github.io/files/coursework/RNR-533_syllabus_Forest-Ecology.pdf); 
+[Dryland Ecohydrology and Vegetation Dynamics](https://alexandralalor.github.io/files/coursework/RNR-552_syllabus_Dryland-Ecohydrology-and-Vegetation-Dynamics.pdf); [Data Visualization and Analysis](https://alexandralalor.github.io/files/coursework/INFO-526_syllabus_Data-Visualization-and-Analysis.pdf); 
+[Applied Statistics](https://alexandralalor.github.io/files/coursework/RNR-621_syllabus_Applied-Statistics.pdf); 
+[Working with Ecological Data in R](https://alexandralalor.github.io/files/coursework/RNR-620_syllabus_Working-with-Ecological-Data-in-R.pdf); 
+[Ecological Surveys and Sampling (TA)](https://alexandralalor.github.io/files/coursework/TA_RNR-321_syllabus_Ecological-Surveys-and-Sampling.pdf)
 
 ## University of California, Berkeley
 ### College of Natural Resources
