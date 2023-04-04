@@ -8,7 +8,7 @@ author_profile: true
 ## University of Arizona, Tucson
 ### School of Natural Resources and the Environment
 
-**2021 - 2022**; Master of Science in Natural Resources Studies, with an emphasis in Fire Ecology
+**2021 - 2022**; Master of Science in Natural Resources Studies, emphasis in Fire Ecology
 
 **Advisors:** Dr. Donald A. Falk and Dr. David D. Breshears
 
