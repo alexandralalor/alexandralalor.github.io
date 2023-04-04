@@ -17,7 +17,7 @@ author_profile: true
 ### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
 
 > I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneation among giant Sequoias!
-
+![research-7](http://alexandralalor.github.io/images/research/research-7.jpg)
 -----
 
 # Past Research:
@@ -33,6 +33,7 @@ author_profile: true
 ## Fire Effects Monitor
 ### North Cascades National Park, Marblemount, WA
 > This position combines fire effects monitoring fieldwork with curation of tree wedges and tree cores. Fieldwork consists of collecting forest data (tree and understory vegetation characteristics) to monitor the effectiveness of prescribed fire treatments. Curation tasks include dendrochronology (dating tree specimens), and curation of botanical specimens collected for a fire history study.
+![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
 
 ## Luquillo Long-Term Ecological Research Intern
 ### El Verde Field Station, El Yunque National Forest, Río Grande, PR
