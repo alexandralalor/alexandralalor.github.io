@@ -15,16 +15,16 @@ author_profile: true
 
 ## Lead Biological Science Technician
 ### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
-
-> I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneation among giant Sequoias!
+> I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneration among giant Sequoias!
 ![research-7](http://alexandralalor.github.io/images/research/research-7.jpg)
------
-
-# Past Research:
 
 ## Master of Science in Natural Resources Studies
 ### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
+> I've graduated in December of 2022 as an M.S. in Natural Resources Studies, and an emphasis in Fire Ecology. My research is currently in review with the journal Frontiers in Forests and Global Change.
 ![research-6](http://alexandralalor.github.io/images/research/research-6.JPG)
+
+
+# Past Research:
 
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
