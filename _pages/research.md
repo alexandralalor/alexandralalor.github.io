@@ -14,8 +14,7 @@ author_profile: true
 # Current Research:
 
 ## Lead Biological Science Technician
-### [Western Ecological Research Center](https://www.usgs.gov/centers/werc)
-### Sequoia-Kings Canyon National Parks, Three Rivers, California
+### [Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
 
 > I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneation among giant Sequoias!
 
@@ -24,8 +23,7 @@ author_profile: true
 # Past Research:
 
 ## Master of Science in Natural Resources Studies
-### School of Natural Resources and the Environment
-### University of Arizona, Tucson, AZ
+### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
 
 
 ## Assistant Lead Fire Effects Monitor
@@ -37,15 +35,12 @@ author_profile: true
 
 
 ## Luquillo Long-Term Ecological Research Intern
-### University of Puerto Rico
-### El Verde Field Station, El Yunque, Puerto Rico.
+### [El Verde Field Station](https://natsci.uprrp.edu/biology/research-2/facilities-and-resources/el-verde-field-station/), El Yunque National Forest, Río Grande, PR
 
 
 ## Dendrochronology Research Intern
-### [USGS New Mexico Landscapes Field Station](https://www.usgs.gov/centers/fort-collins-science-center/science/new-mexico-landscapes-field-station)
-### Bandelier National Monument, Los Alamos, NM
+### [USGS New Mexico Landscapes Field Station](https://www.usgs.gov/centers/fort-collins-science-center/science/new-mexico-landscapes-field-station), Bandelier National Monument, Los Alamos, NM
 
 
 ## Bachelor of Science in Environmental Sciences
-### College of Natural Resouces
-### University of California, Berkeley, CA
+### College of Natural Resouces, University of California, Berkeley, CA
