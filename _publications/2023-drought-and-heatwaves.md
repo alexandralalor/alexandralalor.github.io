@@ -1,6 +1,6 @@
 ---
 title: "Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient"
-collection: publications
+collection: 
 permalink: /publications/2023-drought-and-heatwaves
 date: 2023-12-02
 venue: "Frontiers in Forests and Global Change"
