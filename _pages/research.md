@@ -44,4 +44,4 @@ author_profile: true
 
 ## Bachelor of Science in Environmental Sciences
 ### College of Natural Resouces, University of California, Berkeley, CA
-![research-1](http://alexandralalor.github.io/images/research/research-1.jpg)
+![research-1](http://alexandralalor.github.io/images/research/research-1.jpeg)
