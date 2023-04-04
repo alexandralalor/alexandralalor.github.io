@@ -14,7 +14,7 @@ author_profile: true
 # Current Research:
 
 ## Lead Biological Science Technician
-### [Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
+### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
 
 > I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneation among giant Sequoias!
 
