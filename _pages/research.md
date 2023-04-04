@@ -24,7 +24,7 @@ author_profile: true
 
 ## Master of Science in Natural Resources Studies
 ### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
-
+![research-6](http://alexandralalor.github.io/images/research/research-6.JPG)
 
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
