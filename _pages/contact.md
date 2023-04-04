@@ -5,6 +5,10 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: allielalor@gmail.com
+Feel free to contact me about my research projects, mentorship, ceramics, or anything else you'd like to speak about!
 
-Phone: 408.220.5214
+**Email:** allielalor@gmail.com
+
+**Phone:** (408) 220-5214
+
+![contact-1](http://alexandralalor.github.io/images/contact/contact-1.JPG)
