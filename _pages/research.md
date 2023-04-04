@@ -37,6 +37,7 @@ author_profile: true
 ## Luquillo Long-Term Ecological Research Intern
 ### El Verde Field Station, El Yunque National Forest, Río Grande, PR
 > We carried out tropical field work at the El Verde Field Station in the El Yunque National Forest in Puerto Rico. We worked on a variety of projects, including canopy and plot photos, soil and litter processing, vegetation surveys, animal surveys (frogs and lizards) and coarse woody debris measurements.
+![research-3](http://alexandralalor.github.io/images/research/research-3.JPG)
 
 ## Dendrochronology Research Intern
 ### [USGS New Mexico Landscapes Field Station](https://www.usgs.gov/centers/fort-collins-science-center/science/new-mexico-landscapes-field-station), Bandelier National Monument, Los Alamos, NM
