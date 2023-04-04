@@ -41,6 +41,7 @@ author_profile: true
 ## Dendrochronology Research Intern
 ### [USGS New Mexico Landscapes Field Station](https://www.usgs.gov/centers/fort-collins-science-center/science/new-mexico-landscapes-field-station), Bandelier National Monument, Los Alamos, NM
 > We worked with long-term monitoring, tree-rings, field studies, and remote sensing data to research climate and land-use-history driven changes to the ecological systems of the mountains of northern New Mexico. We used dendrochronolgy to study fire history in the Jemez and southern Sangre de Cristo Mountains as well as long-term ecological monitoring in and adjacent to Bandelier National Monument.
+![research-2](http://alexandralalor.github.io/images/research/research-2.JPG)
 
 ## Bachelor of Science in Environmental Sciences
 ### College of Natural Resouces, University of California, Berkeley, CA
