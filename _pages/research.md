@@ -29,6 +29,7 @@ author_profile: true
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
 > Vegetation and fuels monitoring in the field reading a variety of permanent and temporary plots in relation to managed fire history. Fieldwork includes protocols for measuring herb cover, shrub abundance, tree size and density, fuel loading, and burn severity.
+![research-5](http://alexandralalor.github.io/images/research/research-5.jpg)
 
 ## Fire Effects Monitor
 ### North Cascades National Park, Marblemount, WA
