@@ -10,9 +10,9 @@ author_profile: true
 
 **2021 - 2022**; Master of Science in Natural Resources Studies
 
-**Thesis:** [Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient](https://alexandralalor.github.io/files/paper1.pdf)
-
 **Advisors:** Dr. Donald A. Falk and Dr. David D. Breshears
+
+**Thesis:** [Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient](https://alexandralalor.github.io/files/paper1.pdf)
 
 **Coursework:** 
 [Introduction to Dendrochronology](https://alexandralalor.github.io/files/coursework/GEOG-539A_syllabus_Introduction-to-Dendrochronology.pdf); 
