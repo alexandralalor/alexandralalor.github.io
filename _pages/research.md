@@ -1,47 +1,51 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
 
-# Research Interests
 - Fire Ecology
 - Dendrochronology
 - Forest Regeneration
 
+-----
 
 # Current Research:
 
-## Western Ecological Research Center - Sequoia-Kings Canyon National Parks
-### USGS Biological Science Technician Field Lead
-#### Three Rivers, California
+## Lead Biological Science Technician
+### [Western Ecological Research Center](https://www.usgs.gov/centers/werc)
+### Sequoia-Kings Canyon National Parks, Three Rivers, California
 
-I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneation among giant Sequoias!
+> I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneation among giant Sequoias!
 
+-----
 
 # Past Research:
 
-## University of Arizona
-### Master of Science in Natural Resources Studies
-#### Tucson, Arizona
+## Master of Science in Natural Resources Studies
+### School of Natural Resources and the Environment
+### University of Arizona, Tucson, AZ
 
-## Grand Canyon National Park
-### Assistant Lead Fire Effects Monitor
-#### North Rim, Arizona
 
-## North Cascades National Park
-### Fire Effects Monitor
-#### Marblemount, Washington
+## Assistant Lead Fire Effects Monitor
+### Grand Canyon National Park, North Rim, AZ
 
-## Luquillo Long-Term Ecological Research Program - University of Puerto Rico
-### Tropical Field Research Intern
-#### El Yunque, Puerto Rico.
 
-## New Mexico Landscapes Field Station - Bandelier National Monument
-### USGS Dendrochronology Research Intern
-#### Santa Fe, New Mexico
+## Fire Effects Monitor
+### North Cascades National Park, Marblemount, WA
 
-## University of California
-### Bachelor of Science in Environmental Sciences
-#### Berkeley, California
+
+## Luquillo Long-Term Ecological Research Intern
+### University of Puerto Rico
+### El Verde Field Station, El Yunque, Puerto Rico.
+
+
+## Dendrochronology Research Intern
+### [USGS New Mexico Landscapes Field Station](https://www.usgs.gov/centers/fort-collins-science-center/science/new-mexico-landscapes-field-station)
+### Bandelier National Monument, Los Alamos, NM
+
+
+## Bachelor of Science in Environmental Sciences
+### College of Natural Resouces
+### University of California, Berkeley, CA
