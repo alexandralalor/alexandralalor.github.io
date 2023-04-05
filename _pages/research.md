@@ -30,13 +30,13 @@ author_profile: true
 
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
-> Vegetation and fuels monitoring in the field reading a variety of permanent and temporary plots in relation to managed fire history. Fieldwork includes protocols for measuring herb cover, shrub abundance, tree size and density, fuel loading, and burn severity.
+> I joined the Fire Effects Monitoring crew at Grand Canyon National Park in 2020, and fell in love with it! The Fire Effects (FX) crew is responsible for monitoring vegetation change following prescribed burns and wildfires using long-term ecological plots. We collect forest data such as plot photos, tree growth, shrub abundance, plant species composition, fuel loading, and seedling counts. We also serve as wildland firefighters, with a particular focus on monitoring fire activity during prescribed burns. In 2021 I joined the FX crew as an Assistant Lead Monitor and took on responsibilites with program management, organizing field work, and data analysis. The depth of fire-related ecological data that this program maintains inspired me to return to graduate school to learn about fire ecology research.
 > 
 >![research-5](http://alexandralalor.github.io/images/research/research-5.jpg)
 
-## Fire Effects Monitor
+## Fire Effects Monitor and Dendrochronology 
 ### North Cascades National Park, Marblemount, WA
-> This position combines fire effects monitoring fieldwork with curation of tree wedges and tree cores. Fieldwork consists of collecting forest data (tree and understory vegetation characteristics) to monitor the effectiveness of prescribed fire treatments. Curation tasks include dendrochronology (dating tree specimens), and curation of botanical specimens collected for a fire history study.
+> As a Scientist-in-Parks intern, I used dendrochronology to date tree cross sections and curated tree ring samples for a fire history study. I also worked with the Fire Effects field crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assited in prescribed burn operations. I also assisted with communication center radio dispatching and Search and Rescue operations within the park.
 > 
 >![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
 
