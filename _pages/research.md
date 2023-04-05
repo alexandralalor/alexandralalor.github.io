@@ -34,7 +34,7 @@ author_profile: true
 > 
 >![research-5](http://alexandralalor.github.io/images/research/research-5.jpg)
 
-## Fire Effects Monitor and Dendrochronology 
+## Fire Effects Monitor
 ### North Cascades National Park, Marblemount, WA
 > As a Scientist-in-Parks intern, I curated tree ring samples for a [fire history study](https://www.proquest.com/docview/2652001548?pq-origsite=gscholar&fromopenview=true) using dendrochronology. I also worked with the Fire Effects field crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assited in prescribed burn operations. I also assisted with communication center radio dispatching and Search and Rescue operations within the park.
 > 
