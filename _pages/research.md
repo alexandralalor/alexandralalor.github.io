@@ -38,14 +38,15 @@ author_profile: true
 
 ## Luquillo Long-Term Ecological Research Intern
 ### El Verde Field Station, El Yunque National Forest, Río Grande, PR
-> We carried out tropical field work at the El Verde Field Station in the El Yunque National Forest in Puerto Rico. We worked on a variety of projects, including canopy and plot photos, soil and litter processing, vegetation surveys, animal surveys (frogs and lizards) and coarse woody debris measurements.
+> During the winter of 2018, I joined the El Verde Field Station in Puerto Rico to study forest dynamics post-hurricane María. We worked on a variety of projects, including canopy and plot photos, soil and litter processing, vegetation surveys, and coarse woody debris measurements.
 ![research-3](http://alexandralalor.github.io/images/research/research-3.JPG)
 
 ## Dendrochronology Research Intern
 ### [USGS New Mexico Landscapes Field Station](https://www.usgs.gov/centers/fort-collins-science-center/science/new-mexico-landscapes-field-station), Bandelier National Monument, Los Alamos, NM
-> We worked with long-term monitoring, tree-rings, field studies, and remote sensing data to research climate and land-use-history driven changes to the ecological systems of the mountains of northern New Mexico. We used dendrochronolgy to study fire history in the Jemez and southern Sangre de Cristo Mountains as well as long-term ecological monitoring in and adjacent to Bandelier National Monument.
+> I spent a year researching with the Dendroecology Lab at the New Mexico Landscapes Field Station, a USGS research team working in collaboration with Bandelier National Monument. Here I studied fire history in the Jemez and Sangre de Cristo Mountains using dendrochronology techniques. Through this position I learned to identify fire scarred trees in the field, take samples of tree cores, and cross date tree rings to determine fire years. I also assisted with ecological monitoring projects at Bandelier National Monument, including demography plots, dendroband measurements, vegetation transects, and fire effects forest plots.
 ![research-2](http://alexandralalor.github.io/images/research/research-2.JPG)
 
 ## Bachelor of Science in Environmental Sciences
 ### College of Natural Resouces, University of California, Berkeley, CA
+> My [senior thesis](https://alexandralalor.github.io/files/Lalor_UC-Thesis.pdf) at UC Berkeley focused on grazing effects on plant diversity at Point Reyes National Seashore using multiple spatial scales. At a fine-scale, I looked at species diversity of forbs and grasses in both grazed and ungrazed portions of the land, at either side of fenced grazing allotments. At a broad-scale, I anlayzed changes in shrubland and grassland using GIS vegetation classification maps from aerial images taken in the 1940s, 1960s, and 1990s. Overall, I found that grazing did not alter species diversity significantly, but there had been a large scale shift from grassland to shrubland over time, which may have corresponded with shifting land ownership in the region.
 ![research-1](http://alexandralalor.github.io/images/research/research-1.jpeg)
