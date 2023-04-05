@@ -36,7 +36,7 @@ author_profile: true
 
 ## Fire Effects Monitor and Dendrochronology 
 ### North Cascades National Park, Marblemount, WA
-> As a Scientist-in-Parks intern, I used dendrochronology to date tree cross sections and curated tree ring samples for a fire history study. I also worked with the Fire Effects field crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assited in prescribed burn operations. I also assisted with communication center radio dispatching and Search and Rescue operations within the park.
+> As a Scientist-in-Parks intern, I used dendrochronology to date tree cross sections and curated tree ring samples for a [fire history study](https://www.proquest.com/docview/2652001548?pq-origsite=gscholar&fromopenview=true). I also worked with the Fire Effects field crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assited in prescribed burn operations. I also assisted with communication center radio dispatching and Search and Rescue operations within the park.
 > 
 >![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
 
