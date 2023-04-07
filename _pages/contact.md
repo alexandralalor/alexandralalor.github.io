@@ -9,6 +9,6 @@ Feel free to contact me about my research projects, mentorship, ceramics, or any
 
 **Email:** allielalor@gmail.com
 
-**Phone:** (408) 220-5214
+![contact-1](http://alexandralalor.github.io/images/contact/contact-1.JPG)
 
-![contact-1](http://alexandralalor.github.io/images/contact/contact-1.JPG){: style="float: right"}
+{% include module.html image_path="http://alexandralalor.github.io/images/contact/contact-1.JPG" title="Some title text" description="Some more text that will appear to the left of the image." %}
