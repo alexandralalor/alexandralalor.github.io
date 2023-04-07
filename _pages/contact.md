@@ -11,4 +11,4 @@ Feel free to contact me about my research projects, mentorship, ceramics, or any
 
 **Phone:** (408) 220-5214
 
-![contact-1](http://alexandralalor.github.io/images/contact/contact-1.JPG)
+![contact-1](http://alexandralalor.github.io/images/contact/contact-1.JPG){: style="float: right"}
