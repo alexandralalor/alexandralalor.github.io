@@ -15,13 +15,15 @@ author_profile: true
 
 ## Lead Biological Science Technician
 ### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
-> I'm excited to work this summer at Sequoia-Kings Canyon National Parks, studying tree regeneration among giant Sequoias!
+> I'm excited to work this summer at Sequoia-Kings Canyon National Parks! As a crew lead, I'll bring researchers into backcountry field sites to collect fuel data in recently burned and unburned Sequoia groves. We'll also be looking at forest regeneration and seedling abundance, to see how these landscapes are recovering from recent fires.
 > 
 >![research-7](http://alexandralalor.github.io/images/research/research-7.jpg)
 
 ## Master of Science in Natural Resources Studies
 ### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
-> I've graduated in December of 2022 as an M.S. in Natural Resources Studies, and an emphasis in Fire Ecology. My research is currently in review with the journal Frontiers in Forests and Global Change.
+> I graduated in December of 2022 as an M.S. in Natural Resources Studies, and an emphasis in Fire Ecology. My research is currently in review with the journal Frontiers in Forests and Global Change.
+>  
+> I implemented a controlled experiment to test the tolerances of tree seedlings to both droughts and heatwaves, using five tree species that span a montane elevational gradient in the southwestern United States. I found strong species differences in drought tolerance. Lower elevation species that grow in warmer ambient conditions died earlier (ponderosa pine in 10 weeks, piñon pine in 14 weeks) than did higher elevation species from cooler ambient conditions (Engelmann spruce and Douglas fir in 19 weeks, and limber pine in 30 weeks). I also found that heatwave exposure had a minor effect on tree mortality, which was most pronounced among higher elevation species (limber pine died 2.7 weeks earlier; Douglas fir died 2.0 weeks earlier). This study suggests that droughts will play a leading role in juvenile tree mortality and will most directly impact species at warmer climate thresholds, with heatwaves in tandem with drought potentially exacerbating mortality especially of high elevation species. These drought tolerances could shift forest species compostion across a landscape as droughts become more frequent and severe with climate change.
 > 
 >![research-6](http://alexandralalor.github.io/images/research/research-6.JPG)
 
@@ -36,13 +38,13 @@ author_profile: true
 
 ## Fire Effects Monitor
 ### North Cascades National Park, Marblemount, WA
-> As a Scientist-in-Parks intern, I curated tree ring samples for a [fire history study](https://www.proquest.com/docview/2652001548?pq-origsite=gscholar&fromopenview=true) using dendrochronology. I also worked with the Fire Effects field crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assited in prescribed burn operations. I also assisted with communication center radio dispatching and Search and Rescue operations within the park.
+> As a Scientist-in-Parks intern, I curated tree ring samples for a [fire history study](https://www.proquest.com/docview/2652001548?pq-origsite=gscholar&fromopenview=true) using dendrochronology. I also worked with the Fire Effects field crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assisted in prescribed burn operations. I also worked with communication center radio dispatching and Search and Rescue operations within the park.
 > 
 >![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
 
 ## Luquillo Long-Term Ecological Research Intern
 ### El Verde Field Station, El Yunque National Forest, Río Grande, PR
-> During the winter of 2018, I joined the El Verde Field Station in Puerto Rico to study forest dynamics post-hurricane María. We worked on a variety of projects, including canopy and plot photos, soil and litter processing, vegetation surveys, and coarse woody debris measurements.
+> During the winter of 2018, I joined the El Verde Field Station in Puerto Rico to study forest dynamics post-hurricane María. We worked on a variety of forestry projects, including canopy and plot photos, soil and litter processing, vegetation surveys, and coarse woody debris measurements.
 > 
 >![research-3](http://alexandralalor.github.io/images/research/research-3.JPG)
 
