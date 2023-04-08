@@ -42,10 +42,11 @@ author_profile: true
 
 ## Dendrochrology Intern and Fire Effects Monitor
 ### North Cascades National Park, Marblemount, WA
-> As a Scientist-in-Parks intern, I curated tree ring samples for a [fire history study](https://www.proquest.com/docview/2652001548?pq-origsite=gscholar&fromopenview=true) using dendrochronology. I also worked with the Fire Effects Monitoring crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assisted in prescribed burn operations. I also worked with communication center radio dispatching and Search and Rescue operations within the park.
+> As a Scientist-in-Parks intern, I curated tree ring samples for a fire history study using dendrochronology. I also worked with the Fire Effects Monitoring crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assisted in prescribed burn operations. I also worked with communication center radio dispatching and Search and Rescue operations within the park.
 > 
 > Contributing Reports: 
-> [2019 North Cascades Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2019_NOCA-FX-Report.pdf)
+> [2019 North Cascades Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2019_NOCA-FX-Report.pdf); 
+> [2022 Karen Kopper Dissertation](https://alexandralalor.github.io/files/research/2022_Kopper_Fire-Regimes-in-National-Parks.pdf)
 > 
 >![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
 
@@ -58,6 +59,9 @@ author_profile: true
 ## Dendrochronology Research Intern
 ### [USGS New Mexico Landscapes Field Station](https://www.usgs.gov/centers/fort-collins-science-center/science/new-mexico-landscapes-field-station), Bandelier National Monument, Los Alamos, NM
 > I spent a year researching with the Dendroecology Lab at the New Mexico Landscapes Field Station, a USGS research team working in collaboration with Bandelier National Monument. Here I studied fire history in the Jemez and Sangre de Cristo Mountains using dendrochronology techniques. Through this position I learned to identify fire scarred trees in the field, take samples of tree cores, and cross date tree rings to determine fire years. I also assisted with ecological monitoring projects at Bandelier National Monument, including demography plots, dendroband measurements, vegetation transects, and fire effects forest plots.
+> 
+> Contributing Reports:
+> [2018 USGS Santa Fe Fire History](https://alexandralalor.github.io/files/research/2018_USGS_Santa-Fe-Fireshed.pdf)
 > 
 >![research-2](http://alexandralalor.github.io/images/research/research-2.JPG)
 
