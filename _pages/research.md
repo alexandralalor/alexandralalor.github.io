@@ -33,12 +33,15 @@ author_profile: true
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
 > I joined the Fire Effects Monitoring crew at Grand Canyon National Park in 2020, and fell in love with it! The Fire Effects (FX) crew is responsible for monitoring vegetation change following prescribed burns and wildfires using long-term ecological plots. We collect forest data such as plot photos, tree growth, shrub abundance, plant species composition, fuel loading, and seedling counts. We also serve as wildland firefighters, with a particular focus on monitoring fire activity during prescribed burns. In 2021 I joined the FX crew as an Assistant Lead Monitor and took on responsibilites with program management, organizing field work, and data analysis. The depth of fire-related ecological data that this program maintains inspired me to return to graduate school to learn about fire ecology research.
+> [2020 Annual Report](https://alexandralalor.github.io/files/research/2020_GRCA-FX-Report.pdf)
+> [2021 Annual Report](https://alexandralalor.github.io/files/research/2021_GRCA-FX-Report.pdf)
 > 
 >![research-5](http://alexandralalor.github.io/images/research/research-5.jpg)
 
 ## Fire Effects Monitor
 ### North Cascades National Park, Marblemount, WA
 > As a Scientist-in-Parks intern, I curated tree ring samples for a [fire history study](https://www.proquest.com/docview/2652001548?pq-origsite=gscholar&fromopenview=true) using dendrochronology. I also worked with the Fire Effects field crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assisted in prescribed burn operations. I also worked with communication center radio dispatching and Search and Rescue operations within the park.
+> [2019 Annual Report](https://alexandralalor.github.io/files/research/2019_NOCA-FX-Report.pdf)
 > 
 >![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
 
@@ -56,6 +59,8 @@ author_profile: true
 
 ## Bachelor of Science in Environmental Sciences
 ### College of Natural Resouces, University of California, Berkeley, CA
-> My [senior thesis](https://alexandralalor.github.io/files/Lalor_UC-Thesis.pdf) at UC Berkeley focused on grazing effects on plant diversity at Point Reyes National Seashore using multiple spatial scales. At a fine-scale, I looked at species diversity of forbs and grasses in both grazed and ungrazed portions of the land, at either side of fenced grazing allotments. At a broad-scale, I anlayzed changes in shrubland and grassland using GIS vegetation classification maps from aerial images taken in the 1940s, 1960s, and 1990s. Overall, I found that grazing did not alter species diversity significantly, but there had been a large scale shift from grassland to shrubland over time, which may have corresponded with shifting land ownership in the region.
+> My [senior thesis](https://alexandralalor.github.io/files/research/Lalor_UC-Thesis.pdf) at UC Berkeley focused on grazing effects on plant diversity at Point Reyes National Seashore using multiple spatial scales. At a fine-scale, I looked at species diversity of forbs and grasses in both grazed and ungrazed portions of the land, at either side of fenced grazing allotments. At a broad-scale, I anlayzed changes in shrubland and grassland using GIS vegetation classification maps from aerial images taken in the 1940s, 1960s, and 1990s. Overall, I found that grazing did not alter species diversity significantly, but there had been a large scale shift from grassland to shrubland over time, which may have corresponded with shifting land ownership in the region.
+> [UC Berkeley Thesis](https://alexandralalor.github.io/files/research/Lalor_UC-Thesis)
+> [UC Berkeley Thesis Poster](https://alexandralalor.github.io/files/research/Lalor_UC-Thesis-Poster)
 > 
 >![research-1](http://alexandralalor.github.io/images/research/research-1.jpeg)
