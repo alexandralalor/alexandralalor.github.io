@@ -35,8 +35,8 @@ author_profile: true
 > I joined the Fire Effects Monitoring crew at Grand Canyon National Park in 2020, and fell in love with it! The Fire Effects (FX) crew is responsible for monitoring vegetation change following prescribed burns and wildfires using long-term ecological plots. We collect forest data such as plot photos, tree growth, shrub abundance, plant species composition, fuel loading, and seedling counts. We also serve as wildland firefighters, with a particular focus on monitoring fire activity during prescribed burns. In 2021 I joined the FX crew as an Assistant Lead Monitor and took on responsibilites with program management, organizing field work, and data analysis. The depth of fire-related ecological data that this program maintains inspired me to return to graduate school to learn about fire ecology research.
 > 
 > Contributing Reports: 
-> [2020 Grand Canyon Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2020_GRCA-FX-Report.pdf); 
-> [2021 Grand Canyon Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2021_GRCA-FX-Report.pdf)
+> [2020 Grand Canyon Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2020_GRCA_FX-Report.pdf); 
+> [2021 Grand Canyon Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2021_GRCA_FX-Report.pdf)
 > 
 >![research-5](http://alexandralalor.github.io/images/research/research-5.jpg)
 
@@ -45,7 +45,7 @@ author_profile: true
 > As a Scientist-in-Parks intern, I curated tree ring samples for a fire history study using dendrochronology. I also worked with the Fire Effects Monitoring crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assisted in prescribed burn operations. I also worked with communication center radio dispatching and Search and Rescue operations within the park.
 > 
 > Contributing Reports: 
-> [2019 North Cascades Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2019_NOCA-FX-Report.pdf); 
+> [2019 North Cascades Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2019_NOCA_FX-Report.pdf); 
 > [2022 Karen Kopper Dissertation](https://alexandralalor.github.io/files/research/2022_Kopper_Fire-Regimes-in-National-Parks.pdf)
 > 
 >![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
