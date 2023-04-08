@@ -46,7 +46,7 @@ author_profile: true
 > 
 > Contributing Reports: 
 > [2019 North Cascades Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2019_NOCA_FX-Report.pdf); 
-> [2022 Karen Kopper Dissertation](https://alexandralalor.github.io/files/research/2022_Kopper_Fire-Regimes-in-National-Parks.pdf)
+> [Karen Kopper Dissertation](https://alexandralalor.github.io/files/research/2019_Kopper_Fire-Regimes-in-National-Parks.pdf)
 > 
 >![research-4](http://alexandralalor.github.io/images/research/research-4.jpg)
 
@@ -61,7 +61,7 @@ author_profile: true
 > I spent a year researching with the Dendroecology Lab at the New Mexico Landscapes Field Station, a USGS research team working in collaboration with Bandelier National Monument. Here I studied fire history in the Jemez and Sangre de Cristo Mountains using dendrochronology techniques. Through this position I learned to identify fire scarred trees in the field, take samples of tree cores, and cross date tree rings to determine fire years. I also assisted with ecological monitoring projects at Bandelier National Monument, including demography plots, dendroband measurements, vegetation transects, and fire effects forest plots.
 > 
 > Contributing Reports:
-> [2018 USGS Santa Fe Fire History](https://alexandralalor.github.io/files/research/2018_USGS_Santa-Fe-Fireshed.pdf)
+> [USGS Santa Fe Fire History](https://alexandralalor.github.io/files/research/2018_USGS_Santa-Fe-Fireshed.pdf)
 > 
 >![research-2](http://alexandralalor.github.io/images/research/research-2.JPG)
 
