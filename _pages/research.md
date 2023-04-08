@@ -59,8 +59,8 @@ author_profile: true
 
 ## Bachelor of Science in Environmental Sciences
 ### College of Natural Resouces, University of California, Berkeley, CA
-> My [senior thesis](https://alexandralalor.github.io/files/research/Lalor_UC-Thesis.pdf) at UC Berkeley focused on grazing effects on plant diversity at Point Reyes National Seashore using multiple spatial scales. At a fine-scale, I looked at species diversity of forbs and grasses in both grazed and ungrazed portions of the land, at either side of fenced grazing allotments. At a broad-scale, I anlayzed changes in shrubland and grassland using GIS vegetation classification maps from aerial images taken in the 1940s, 1960s, and 1990s. Overall, I found that grazing did not alter species diversity significantly, but there had been a large scale shift from grassland to shrubland over time, which may have corresponded with shifting land ownership in the region.
-> [UC Berkeley Thesis](https://alexandralalor.github.io/files/research/Lalor_UC-Thesis)
-> [UC Berkeley Thesis Poster](https://alexandralalor.github.io/files/research/Lalor_UC-Thesis-Poster)
+> My senior thesis at UC Berkeley focused on grazing effects on plant diversity at Point Reyes National Seashore using multiple spatial scales. At a fine-scale, I looked at species diversity of forbs and grasses in both grazed and ungrazed portions of the land, at either side of fenced grazing allotments. At a broad-scale, I anlayzed changes in shrubland and grassland using GIS vegetation classification maps from aerial images taken in the 1940s, 1960s, and 1990s. Overall, I found that grazing did not alter species diversity significantly, but there had been a large scale shift from grassland to shrubland over time, which may have corresponded with shifting land ownership in the region.
+> [UC Berkeley Thesis](https://alexandralalor.github.io/files/research/2017_Lalor_UC-Thesis)
+> [UC Berkeley Thesis Poster](https://alexandralalor.github.io/files/research/2017_Lalor_UC-Thesis-Poster)
 > 
 >![research-1](http://alexandralalor.github.io/images/research/research-1.jpeg)
