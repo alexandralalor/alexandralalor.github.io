@@ -7,7 +7,7 @@ author_profile: true
 
 | Fire Ecology | Dendrochronology | Forest Regeneration |
 |:------------:|:----------------:|:-------------------:|
-| ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg) | ![research-2b](http://alexandralalor.github.io/images/research/research-2b.jpg) | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg) |
+| ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg){:height="36px" width="36px"} | ![research-2b](http://alexandralalor.github.io/images/research/research-2b.jpg){:height="36px" width="36px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="36px" width="36px"} |
 
 
 -----
