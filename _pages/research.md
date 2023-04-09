@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-- Fire Ecology
-- Dendrochronology
-- Forest Regeneration
-
 | Fire Ecology | Dendrochronology | Forest Regeneration |
 |:------------:|:----------------:|:-------------------:|
 | ![research-4b](http://alexandralalor.github.io/images/research/research-4b.jpg) | ![research-2b](http://alexandralalor.github.io/images/research/research-2b.JPG) | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg) |
