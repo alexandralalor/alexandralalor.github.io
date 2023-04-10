@@ -9,4 +9,4 @@ author_profile: true
 
 Feel free to contact me about my research projects, mentorship, ceramics, or anything else you'd like to speak about! 
 
-![contact-1](http://alexandralalor.github.io/images/contact/contact-1.JPG)){:width="450px"}
+![contact-1](http://alexandralalor.github.io/images/contact/contact-1.JPG){:width="350px"}
