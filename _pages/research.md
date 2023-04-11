@@ -9,7 +9,6 @@ author_profile: true
 |:------------:|:----------------:|:-------------------:|
 | ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg){:height="300px" width="300px"} | ![research-2a](http://alexandralalor.github.io/images/research/research-2a.jpg){:height="300px" width="300px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="300px" width="300px"} |
 
-
 -----
 
 # Current Research:
@@ -28,6 +27,7 @@ author_profile: true
 > 
 >![research-6](http://alexandralalor.github.io/images/research/research-6.JPG)
 
+------
 
 # Past Research:
 
