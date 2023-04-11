@@ -24,7 +24,7 @@ author_profile: true
 [Working with Ecological Data in R](https://alexandralalor.github.io/files/coursework/RNR-620_syllabus_Working-with-Ecological-Data-in-R.pdf); 
 [Ecological Surveys and Sampling (TA)](https://alexandralalor.github.io/files/coursework/TA_RNR-321_syllabus_Ecological-Surveys-and-Sampling.pdf)
 
-![education-2](https://alexandralalor.github.io/images/education/education-2.jpg)
+![education-2b](https://alexandralalor.github.io/images/education/education-2b.jpg)
 
 ## University of California, Berkeley
 ### College of Natural Resources
