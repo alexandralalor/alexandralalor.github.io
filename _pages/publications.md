@@ -7,7 +7,7 @@ author_profile: true
 
 -----
 
-**Lalor, A.R.**, Law, D.J., Breshears, D.D., Falk, D.A., Field, J.P., Loehman, R.A., Triepke, F.J., Barron-Gafford, G.A., 2023. Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient. *Frontiers in Forests and Global Change*, 2, p.89.
+**Lalor, A.R.**, Law, D.J., Breshears, D.D., Falk, D.A., Field, J.P., Loehman, R.A., Triepke, F.J., Barron-Gafford, G.A., 2023. Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient. *Frontiers in Forests and Global Change*......
 
 - This paper is in review with the journal Frontiers in Forests and Global Change
 
