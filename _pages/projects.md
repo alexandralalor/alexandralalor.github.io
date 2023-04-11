@@ -9,7 +9,7 @@ author_profile: true
 
 ### [Roots for Resilience (R4R)](https://datascience.arizona.edu/r4r)
 
-Roots for Resilience is a cross-disciplinary program which develops programatic capabilities to intigrate data science tools and computational infrastructure into environmental sciences. As an R4R fellow, I've been trained in open, reproducible science and collaborative data science exploration. I was able to further my research by using High Performance Computing to analyze color change in tree seedlings over time, as it relates to tree mortality during drought. You can watch a demonstration of my color research [here](https://drive.google.com/file/d/1NEY4lEk8jLr8HUqctRIV1gWWjdfkqzBv/view?usp=sharing).
+Roots for Resilience is a cross-disciplinary program which develops programmatic capabilities to intigrate data science tools and computational infrastructure into environmental sciences. As an R4R fellow, I've been trained in open, reproducible science and collaborative data science exploration. I was able to further my research by using High Performance Computing to analyze color change in tree seedlings over time, as it relates to tree mortality during drought. You can watch a demonstration of my color research [here](https://drive.google.com/file/d/1NEY4lEk8jLr8HUqctRIV1gWWjdfkqzBv/view?usp=sharing).
 
 ### [University Climate Change Coalition (UC3)](https://secondnature.org/initiative/uc3-coalition/)
 
