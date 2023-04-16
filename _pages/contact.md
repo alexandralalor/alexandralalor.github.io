@@ -9,7 +9,7 @@ author_profile: true
 
 Feel free to contact me about my research projects, mentorship, ceramics, or anything else you'd like to speak about!
 
-> **Email:** allielalor@gmail.com
+**Email:** allielalor@gmail.com
 
 > **LinkedIn:** https://www.linkedin.com/in/alexandra-lalor/
 > 
