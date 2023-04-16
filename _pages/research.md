@@ -9,7 +9,7 @@ author_profile: true
 |:------------:|:----------------:|:-------------------:|
 | ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg){:height="300px" width="300px"} | ![research-2a](http://alexandralalor.github.io/images/research/research-2a.jpg){:height="300px" width="300px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="300px" width="300px"} |
 
-I'm interested in how fire plays a role in shaping our ecosystems. Tree ring studies show the abundance of past fires in many forests, and the interuption of fire regimes by settler fire suppression. Now, climate change and increasing fire activity will influence forest regeneration into the future. Take a look at my research involments below!
+I'm interested in how fire plays a role in shaping our ecosystems. Tree ring studies show the abundance of past fires in many forests, and the interruption of fire regimes by settler fire suppression. Now, climate change and increasing fire activity will influence forest regeneration into the future. Take a look at my research projects below!
 
 -----
 
@@ -25,7 +25,7 @@ I'm interested in how fire plays a role in shaping our ecosystems. Tree ring stu
 ### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
 > I graduated in December of 2022 as an M.S. in Natural Resources Studies, and an emphasis in Fire Ecology. My research is currently in review with the journal Frontiers in Forests and Global Change.
 >  
-> I implemented a controlled experiment to test the tolerances of tree seedlings to both droughts and heatwaves, using five tree species that span a montane elevational gradient in the southwestern United States. I found strong species differences in drought tolerance. Lower elevation species that grow in warmer ambient conditions died earlier (e.g. ponderosa pine in 10 weeks) than did higher elevation species from cooler ambient conditions (e.g. limber pine in 30 weeks). I also found that heatwave exposure had a minor effect on tree mortality, which was most pronounced among higher elevation species (e.g. limber pine died 2.7 weeks earlier). This study suggests that droughts will play a leading role in juvenile tree mortality and will most directly impact species at warmer climate thresholds. These drought tolerances could shift forest species compostion across a landscape as droughts become more frequent and severe with climate change.
+> I implemented a controlled experiment to test the tolerances of tree seedlings to both droughts and heatwaves, using five tree species that span a montane elevational gradient in the southwestern United States. I found strong species differences in drought tolerance. Lower elevation species that grow in warmer ambient conditions died earlier (e.g. ponderosa pine in 10 weeks) than did higher elevation species from cooler ambient conditions (e.g. limber pine in 30 weeks). I also found that heatwave exposure had a minor effect on tree mortality, which was most pronounced among higher elevation species (e.g. limber pine died 2.7 weeks earlier). This study suggests that droughts will play a leading role in juvenile tree mortality and will most directly impact species at warmer climate thresholds. These drought tolerances could shift forest species composition across a landscape as droughts become more frequent and severe with climate change.
 > 
 >![research-6](http://alexandralalor.github.io/images/research/research-6.JPG)
 
@@ -35,7 +35,7 @@ I'm interested in how fire plays a role in shaping our ecosystems. Tree ring stu
 
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
-> I joined the Fire Effects Monitoring crew at Grand Canyon National Park in 2020, and fell in love with it! The Fire Effects (FX) crew is responsible for monitoring vegetation change following prescribed burns and wildfires using long-term ecological plots. We collect forest data such as plot photos, tree growth, shrub abundance, plant species composition, fuel loading, and seedling counts. We also serve as wildland firefighters, with a particular focus on monitoring fire activity during prescribed burns. In 2021 I joined the FX crew as an Assistant Lead Monitor and took on responsibilites with program management, organizing field work, and data analysis. The depth of fire-related ecological data that this program maintains inspired me to return to graduate school to learn about fire ecology research.
+> I joined the Fire Effects Monitoring crew at Grand Canyon National Park in 2020, and fell in love with it! The Fire Effects (FX) crew is responsible for monitoring vegetation change following prescribed burns and wildfires using long-term ecological plots. We collect forest data such as plot photos, tree growth, shrub abundance, plant species composition, fuel loading, and seedling counts. We also serve as wildland firefighters, with a particular focus on monitoring fire activity during prescribed burns. In 2021 I joined the FX crew as an Assistant Lead Monitor and took on responsibilities with program management, organizing field work, and data analysis. The depth of fire-related ecological data that this program maintains inspired me to return to graduate school to learn about fire ecology research.
 > 
 > Contributing Reports: 
 > [2020 Grand Canyon Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2020_GRCA_FX-Report.pdf); 
@@ -43,7 +43,7 @@ I'm interested in how fire plays a role in shaping our ecosystems. Tree ring stu
 > 
 >![research-5](http://alexandralalor.github.io/images/research/research-5.jpg)
 
-## Dendrochrology Intern and Fire Effects Monitor
+## Dendrochronology Intern and Fire Effects Monitor
 ### North Cascades National Park, Marblemount, WA
 > As a Scientist-in-Parks intern, I curated tree ring samples for a fire history study using dendrochronology. I also worked with the Fire Effects Monitoring crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assisted in prescribed burn operations. I also worked with communication center radio dispatching and Search and Rescue operations within the park.
 > 
@@ -69,8 +69,8 @@ I'm interested in how fire plays a role in shaping our ecosystems. Tree ring stu
 >![research-2](http://alexandralalor.github.io/images/research/research-2.JPG)
 
 ## Bachelor of Science in Environmental Sciences
-### College of Natural Resouces, University of California, Berkeley, CA
-> My senior thesis at UC Berkeley focused on grazing effects on plant diversity at Point Reyes National Seashore using multiple spatial scales. At a fine-scale, I looked at species diversity of forbs and grasses in both grazed and ungrazed portions of the land, at either side of fenced grazing allotments. At a broad-scale, I anlayzed changes in shrubland and grassland using GIS vegetation classification maps from aerial images taken in the 1940s, 1960s, and 1990s. Overall, I found that grazing did not alter species diversity significantly, but there had been a large scale shift from grassland to shrubland over time, which may have corresponded with shifting land ownership in the region.
+### College of Natural Resources, University of California, Berkeley, CA
+> My senior thesis at UC Berkeley focused on grazing effects on plant diversity at Point Reyes National Seashore using multiple spatial scales. At a fine-scale, I looked at species diversity of forbs and grasses in both grazed and ungrazed portions of the land, at either side of fenced grazing allotments. At a broad-scale, I analyzed changes in shrubland and grassland using GIS vegetation classification maps from aerial images taken in the 1940s, 1960s, and 1990s. Overall, I found that grazing did not alter species diversity significantly, but there had been a large-scale shift from grassland to shrubland over time, which may have corresponded with shifting land ownership in the region.
 > 
 > Original Research: 
 > [UC Berkeley Thesis](https://alexandralalor.github.io/files/research/2017_Lalor_UC-Thesis.pdf);
