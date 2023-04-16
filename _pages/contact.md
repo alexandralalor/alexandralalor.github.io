@@ -12,8 +12,8 @@ Feel free to contact me about my research projects, mentorship, ceramics, or any
 
 > **Email:** allielalor@gmail.com
 >
-> **LinkedIn:** https://www.linkedin.com/in/alexandra-lalor/
+> **LinkedIn:** linkedin.com/in/alexandra-lalor/
 > 
-> **GitHub:** https://github.com/alexandralalor
+> **GitHub:** github.com/alexandralalor
 > 
 > **ORCID:** coming soon
