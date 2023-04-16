@@ -9,7 +9,7 @@ I'm drawn to work with projects which bolster community relationships, mentorshi
 
 > ## [University Climate Change Coalition (UC3)](https://secondnature.org/initiative/uc3-coalition/)
 >
->The University Climate Change Coalition is a program focused on collaborative approaches to problem solving, aimed at engaging university students and surrounding communities in developing solutions related to climate action. It's a program particularly focused on partnership building, science communication, and experiential learning. As a UC3 fellow, I worked in collaboration with the Sky Island Alliance to develop a storymap highlighting threats to culturally and ecologically important water sources along borderland regions.
+>The University Climate Change Coalition is a program focused on collaborative approaches to problem solving, aimed at engaging university students and surrounding communities in developing solutions related to climate action. It's a program particularly focused on partnership building, science communication, and experiential learning. As a UC3 fellow, I worked in collaboration with the Sky Island Alliance to develop a storymap highlighting threats to culturally and ecologically important water sources along borderland regions. Please take a look!
 >
 >[Parsed & Parched: Bridging Culture and Ecology Through Borderland Waters](https://storymaps.arcgis.com/stories/c6b8dcbb55df4373a8b4f4c2e7a5b192)
 
