@@ -42,7 +42,7 @@ Fierce Femmes and Notorious Liars,
 In the Dream House,
 The Body Keeps the Score,
 The Disordered Cosmos, 
-_and_
+and
 Pachinko
 
 # Resources
