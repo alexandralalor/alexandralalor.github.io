@@ -41,7 +41,8 @@ The Revolution Will Not Be Funded,
 Fierce Femmes and Notorious Liars,
 In the Dream House,
 The Body Keeps the Score,
-The Disordered Cosmos, and
+The Disordered Cosmos, 
+_and_
 Pachinko
 
 # Resources
