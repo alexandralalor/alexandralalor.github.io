@@ -26,6 +26,6 @@ Aside from research, I also do ceramics!
 
 {% for image in site.static_files %}
     {% if image.path contains 'images/ceramics' %}
-        <img src="{https://alexandralalor.github.io/}{{ image.path }}" alt="image" />
+        <img src="https://alexandralalor.github.io{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
