@@ -11,7 +11,7 @@ author_profile: true
 
 -----
 
-# Current Research:
+# Current Research
 
 ## Lead Biological Science Technician
 ### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
@@ -29,7 +29,7 @@ author_profile: true
 
 ------
 
-# Past Research:
+# Past Research
 
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
