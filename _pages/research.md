@@ -9,8 +9,6 @@ author_profile: true
 |:------------:|:----------------:|:-------------------:|
 | ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg){:height="300px" width="300px"} | ![research-2a](http://alexandralalor.github.io/images/research/research-2a.jpg){:height="300px" width="300px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="300px" width="300px"} |
 
-I'm interested in how fire plays a role in shaping our ecosystems. Tree ring studies show the abundance of past fires in many forests, and the interruption of fire regimes by settler fire suppression. Now, climate change and increasing fire activity will influence forest regeneration into the future. Take a look at my research projects below!
-
 -----
 
 # Current Research:
