@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-I am interested in projects which bolster community relationships, collaborative learning, mentorships in science, [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) data science principles, and science practice which is socially just and equitable.
+I'm drawn to work with projects which bolster community relationships, mentorships in science, and science practice which is socially just and equitable.
 
 > ## [University Climate Change Coalition (UC3)](https://secondnature.org/initiative/uc3-coalition/)
 >
@@ -16,7 +16,7 @@ I am interested in projects which bolster community relationships, collaborative
 
 > ## [Roots for Resilience (R4R)](https://datascience.arizona.edu/r4r)
 >
-> Roots for Resilience is a cross-disciplinary program which develops programmatic capabilities to integrate data science tools and computational infrastructure into environmental sciences. As an R4R fellow, I've been trained in open, reproducible science and collaborative data science exploration. I was able to further my research by using High Performance Computing to analyze color change in tree seedlings over time, as it relates to tree mortality during drought. You can watch a demonstration of my color research [here](https://drive.google.com/file/d/1NEY4lEk8jLr8HUqctRIV1gWWjdfkqzBv/view?usp=sharing).
+> Roots for Resilience is a cross-disciplinary program which develops programmatic capabilities to integrate data science tools and computational infrastructure into environmental sciences. As an R4R fellow, I've been trained in open science, [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) data science principles, and collaborative data science exploration. I was able to further my research by using High Performance Computing to analyze color change in tree seedlings over time, as it relates to tree mortality during drought. You can watch a demonstration of my color research [here](https://drive.google.com/file/d/1NEY4lEk8jLr8HUqctRIV1gWWjdfkqzBv/view?usp=sharing).
 
 # Mentorship
 
@@ -28,6 +28,17 @@ I believe mentorship is a key way to support future scientists from underreprese
 >
 > [Student Environmental Resource Center (SERC)](https://serc.berkeley.edu/enviromentorship/), University of California, Berkeley
 
+# Book Club
+
+Book clubs are a great way to keep reading with peers! Inspired by conversations started by *Braiding Sweetgrass*, we've read 
+*Algorithms To Live By*,
+*On Earth We're Briefly Gorgeous*,
+*The Anatomy of Dependence*,
+*The Revolution Will Not Be Funded*,
+*Fierce Femmes and Notorious Liars*,
+*In the Dream House*,
+*The Body Keeps the Score*, and
+*The Disordered Cosmos*
 
 # Resources
 
