@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Alexandra Lalor, and I am a fire ecologist and wildland firefighter with research experience in forests across the Western US. I'm interested in the ways fire shape our ecosystems, past present and future.
+Welcome to my website! My name is Alexandra Lalor, I'm a fire ecologist and wildland firefighter with research experience in forests across the Western US. I'm interested in the ways fire shape our ecosystems, past present and future.
 
 ![home-1](http://alexandralalor.github.io/images/Lalor_home-1.JPG)
 
