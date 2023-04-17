@@ -13,6 +13,6 @@ Aside from research, I also do ceramics!
 -----
 
 <p style="line-height: 100px;">
-<img src="images/ceramics/ceramis-1.jpg"><br>
-<img src="images/ceramics/ceramis-2.jpg"><br>
+<"https://alexandralalor.github.io/images/ceramics/ceramics-1.jpg"><br>
+<"https://alexandralalor.github.io/images/ceramics/ceramics-2.jpg"><br>
 </p>
