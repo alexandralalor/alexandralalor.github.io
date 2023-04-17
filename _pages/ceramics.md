@@ -18,14 +18,11 @@ Aside from research, I also do ceramics!
 
 {% for image in site.static_files %}
     {% if image.path contains 'images/ceramics' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-    {% endif %}
-{% endfor %}
-
-
-
-{% for image in site.static_files %}
-    {% if image.path contains 'images/ceramics' %}
         <img src="https://alexandralalor.github.io{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
+
+<p style="line-height: 100px;">
+<img src="images/ceramics/ceramis-1.jpg"><br>
+<img src="images/ceramics/ceramis-2.jpg"><br>
+</p>
