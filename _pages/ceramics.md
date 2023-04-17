@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Aside from research, I also do ceramics!
+
 ![ceramics-1](http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg)
 
 
@@ -14,12 +15,6 @@ Aside from research, I also do ceramics!
 
 {% for post in site.ceramics reversed %}
   {% include archive-single.html %}
-{% endfor %}
-
-{% for image in site.static_files %}
-    {% if image.path contains 'images/ceramics' %}
-        <img src="https://alexandralalor.github.io{{ image.path }}" alt="image" />
-    {% endif %}
 {% endfor %}
 
 <p style="line-height: 100px;">
