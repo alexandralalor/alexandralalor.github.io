@@ -11,11 +11,6 @@ Aside from research, I also do ceramics!
 
 
 -----
-{% include base_path %}
-
-{% for post in site.ceramics reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 <p style="line-height: 100px;">
 <img src="images/ceramics/ceramis-1.jpg"><br>
