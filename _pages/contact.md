@@ -16,4 +16,4 @@ Feel free to contact me about my research projects, mentorship, ceramics, or any
 > 
 > **GitHub:** github.com/alexandralalor
 > 
-> **ORCID:** coming soon
+> **ORCID:** orcid.org/0000-0003-1353-1057
