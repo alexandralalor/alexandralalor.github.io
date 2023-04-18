@@ -15,3 +15,7 @@
 
 - change first page of website
 - link tabs with content
+
+## _includes/head/custom.html
+
+- favicon referencing (icon on web tabs). Images go in images folder
