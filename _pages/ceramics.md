@@ -5,6 +5,8 @@ permalink: /ceramics/
 author_profile: true
 ---
 
+![ceramics-13](http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg)
+
 Aside from research, I also do ceramics!
 
 <!-- Slideshow container -->
@@ -13,13 +15,13 @@ Aside from research, I also do ceramics!
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
-    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg" style="width:100%">
+    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 2</div>
-    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-12.jpg" style="width:100%">
+    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-4.jpg" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
@@ -35,7 +37,7 @@ Aside from research, I also do ceramics!
   <span class="dot" onclick="currentSlide(2)"></span>
 </div>
 
-<!-- ![ceramics-13](http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg) -->
+
 
 <!-- ![ceramics-12](http://alexandralalor.github.io/images/ceramics/ceramics-12.jpg) -->
 -----
