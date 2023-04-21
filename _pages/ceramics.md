@@ -5,9 +5,9 @@ permalink: /ceramics/
 author_profile: true
 ---
 
-![ceramics-13](http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg)
-
 Aside from research, I also do ceramics!
+
+![ceramics-13](http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg)
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -36,7 +36,6 @@ Aside from research, I also do ceramics!
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
 </div>
-
 
 
 <!-- ![ceramics-12](http://alexandralalor.github.io/images/ceramics/ceramics-12.jpg) -->
