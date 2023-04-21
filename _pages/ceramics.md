@@ -13,13 +13,13 @@ Aside from research, I also do ceramics!
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
-    <"http://alexandralalor.github.io/images/ceramics/ceramics-12.jpg" style="width:100%">
+    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 2</div>
-    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg" style="width:100%">
+    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-12.jpg" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
@@ -39,4 +39,3 @@ Aside from research, I also do ceramics!
 
 <!-- ![ceramics-12](http://alexandralalor.github.io/images/ceramics/ceramics-12.jpg) -->
 -----
-
