@@ -20,7 +20,7 @@
 
 - favicon referencing (icon on web tabs). Images go in images folder
 
-## _assets
+## assets
 
-- css -> _main.css (this is where I added css slideshow script, working)
+- css -> main.scss (this is where I added css slideshow script, working)
 - js -> slideshow.js (this is where I added js slideshow script, but not working...)
