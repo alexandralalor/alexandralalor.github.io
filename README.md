@@ -19,3 +19,8 @@
 ## _includes/head/custom.html
 
 - favicon referencing (icon on web tabs). Images go in images folder
+
+## _assets
+
+- css -> _main.css (this is where I added css slideshow script, working)
+- js -> slideshow.js (this is where I added js slideshow script, but not working...)
