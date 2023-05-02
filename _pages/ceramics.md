@@ -17,13 +17,13 @@ Aside from research, I also do ceramics!
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
     <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="width:100%">
-    <div class="teapot">Caption Text</div>
+    <div class="text">vase</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 2</div>
     <img src="http://alexandralalor.github.io/images/ceramics/ceramics-4.jpg" style="width:100%">
-    <div class="vase with wax resist designs">Caption Two</div>
+    <div class="text">vase with wax resist designs</div>
   </div>
 
   <!-- Next and previous buttons -->
