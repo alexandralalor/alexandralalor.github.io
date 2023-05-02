@@ -9,8 +9,6 @@ Aside from research, I also do ceramics!
 
 ![ceramics-13](http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg)
 
-<script src="../assets/js/slideshow.js"></script>
-
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -18,7 +16,7 @@ Aside from research, I also do ceramics!
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
-    <img src= "images/ceramics/ceramics-1.jpg" style="width:100%">
+    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
