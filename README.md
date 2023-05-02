@@ -23,4 +23,4 @@
 ## assets
 
 - css -> main.scss (this is where I added css slideshow script, working)
-- js -> slideshow.js (this is where I added js slideshow script, but not working...)
+- js -> main.min.js (this is where I added js slideshow script, working)
