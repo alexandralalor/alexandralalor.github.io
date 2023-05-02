@@ -17,7 +17,7 @@ Aside from research, I also do ceramics!
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
     <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="width:100%">
-    <div class="text">vase</div>
+    <div class="text">teapot</div>
   </div>
 
   <div class="mySlides fade">
