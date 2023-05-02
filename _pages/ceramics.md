@@ -9,6 +9,9 @@ Aside from research, I also do ceramics!
 
 ![ceramics-13](http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg)
 
+<script src="../assets/js/slideshow.js"></script>
+
+
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
