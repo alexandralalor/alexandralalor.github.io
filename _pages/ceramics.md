@@ -11,7 +11,7 @@ Aside from research, I also do ceramics!
 
 
 <!-- Slideshow container -->
-<div class="slideshow-container
+<div class="slideshow-container">
 
 <!-- to change style:   style="width:100%;height:200px" align="....">
 
