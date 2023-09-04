@@ -15,7 +15,7 @@ author_profile: true
 
 ## Lead Biological Science Technician
 ### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
-> I'm excited to work this summer at Sequoia-Kings Canyon National Parks! As a crew lead, I'll bring researchers into backcountry field sites to collect fuel data in recently burned and unburned Sequoia groves. We'll also be looking at forest regeneration and seedling abundance, to see how these landscapes are recovering from recent fires.
+> In the summer of 2023 I worked with the USGS in Sequoia-Kings Canyon National Parks. As a crew lead, I brought researchers into backcountry field sites to collect fuel data in recently burned and unburned Sequoia groves. This data looks at forest regeneration and seedling abundance, to see how these landscapes are recovering from recent fires.
 > 
 >![research-7](http://alexandralalor.github.io/images/research/research-7.jpg)
 
