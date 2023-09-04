@@ -16,7 +16,7 @@ Aside from research, I also do ceramics!
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
-    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="width:100%;" style="height:400px>
+    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="height:100%">
     <div class="text">teapot</div>
   </div>
 
