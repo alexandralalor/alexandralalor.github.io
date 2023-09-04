@@ -5,10 +5,11 @@ permalink: /contact/
 author_profile: true
 ---
 
+Feel free to contact me about my research projects, mentorship, ceramics, or anything else you'd like to speak about!
+
+
 <img src="/images/contact/contact-1.JPG" align="right" width="450px"/>
 
-
-Feel free to contact me about my research projects, mentorship, ceramics, or anything else you'd like to speak about!
 
 > **Email:** allielalor@gmail.com
 >
