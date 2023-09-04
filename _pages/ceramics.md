@@ -18,13 +18,13 @@ Aside from research, I also do ceramics!
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
-    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="width:100%;height:200px" align="middle">
+    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-1.jpg" style="width:100%" align="middle">
     <div class="text">teapot</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 2</div>
-    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-4.jpg" style="width:100%;height:200px" align="middle">
+    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-4.jpg" style="width:100%" align="middle">
     <div class="text">vase with wax resist designs</div>
   </div>
 
