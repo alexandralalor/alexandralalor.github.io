@@ -33,7 +33,7 @@ author_profile: true
 
 **Advisors:** Dr. Patina K. Mendez and Dr. Felix P. Ratcliff
 
-**Thesis:** [Multi-Scale Analysis of Grazing Impacts on Biodiversity at Point Reyes National Seashore](https://alexandralalor.github.io/files/Lalor_UC-Thesis.pdf)
+**Thesis:** [Multi-Scale Analysis of Grazing Impacts on Biodiversity at Point Reyes National Seashore](https://alexandralalor.github.io/files/research/2017_Lalor_UC-Thesis.pdf)
 
 **Coursework:** General Biology; Introductory Physics; Analytic Geometry and Calculus; Chemical Structure and Reactivity; Introduction to Probability and Statistics for Life Scientists; Introduction to Economics; Geographic Information Systems; Introduction to Environmental Sciences; Introduction to the Methods of Environmental Science; Introduction to Culture and Natural Resource Management; Quantitative Aspects of Global Environmental Problems; Americans and the Global Forest; Ecology and Society; Sociology and Political Ecology of Agro-Food Systems;  Biodiversity Conservation in Working Landscapes; Energy and Society; Political Ecology
 
