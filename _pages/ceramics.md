@@ -22,7 +22,7 @@ Aside from research, I also do ceramics!
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 2</div>
-    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-4.jpg" style="width:100%">
+    <img src="http://alexandralalor.github.io/images/ceramics/ceramics-4.jpg" style="height:100%">
     <div class="text">vase with wax resist designs</div>
   </div>
 
