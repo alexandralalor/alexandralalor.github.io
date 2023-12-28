@@ -24,7 +24,7 @@ author_profile: true
 > I implemented a controlled experiment to test the tolerances of tree seedlings to both droughts and heatwaves, using five tree species that span a montane elevational gradient in the southwestern United States. I found strong species differences in drought tolerance. Lower elevation species that grow in warmer ambient conditions died earlier (e.g. ponderosa pine in 10 weeks) than did higher elevation species from cooler ambient conditions (e.g. limber pine in 30 weeks). I also found that heatwave exposure had a minor effect on tree mortality, which was most pronounced among higher elevation species (e.g. limber pine died 2.7 weeks earlier). This study suggests that droughts will play a leading role in juvenile tree mortality and will most directly impact species at warmer climate thresholds. These drought tolerances could shift forest species composition across a landscape as droughts become more frequent and severe with climate change.
 >
 > Original Research: 
-> [UA Publication](https://alexandralalor.github.io/files/research/2017_Lalor_UC-Thesis.pdf);
+> [UA Publication](https://alexandralalor.github.io/files/research/2023_Lalor_Frontiers.pdf)
 > 
 >![research-6](http://alexandralalor.github.io/images/research/research-6.JPG)
 
