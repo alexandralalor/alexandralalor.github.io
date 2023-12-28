@@ -12,7 +12,7 @@ author_profile: true
 
 **Advisors:** Dr. Donald A. Falk and Dr. David D. Breshears
 
-**Thesis:** [Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient](https://alexandralalor.github.io/files/LalorEtal_2023.pdf)
+**Thesis:** [Mortality Thresholds of Juvenile Trees to Drought and Heatwaves: Implications for Forest Regeneration across a Landscape Gradient](https://alexandralalor.github.io/files/research/2023_Lalor_UA-Thesis.pdf)
 
 **Coursework:** 
 [Introduction to Dendrochronology](https://alexandralalor.github.io/files/coursework/GEOG-539A_syllabus_Introduction-to-Dendrochronology.pdf); 
