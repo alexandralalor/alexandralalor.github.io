@@ -9,6 +9,11 @@ author_profile: true
 |:------------:|:----------------:|:-------------------:|
 | ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg){:height="300px" width="300px"} | ![research-2a](http://alexandralalor.github.io/images/research/research-2a.jpg){:height="300px" width="300px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="300px" width="300px"} |
 
+| Fire Ecology | Dendrochronology | Forest Regeneration |
+|:------------:|:----------------:|:-------------------:|
+| ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg){:height="300px" width="300px"} | ![research-2a](http://alexandralalor.github.io/images/research/research-2a.jpg){:height="300px" width="300px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="300px" width="300px"} |
+
+
 -----
 
 # Current Research
@@ -19,9 +24,7 @@ author_profile: true
 
 ## Master of Science in Natural Resources Studies
 ### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
-> I graduated in December of 2022 as an M.S. in Natural Resources Studies, and an emphasis in Fire Ecology. My research is currently in review with the journal Frontiers in Forests and Global Change.
->  
-> I implemented a controlled experiment to test the tolerances of tree seedlings to both droughts and heatwaves, using five tree species that span a montane elevational gradient in the southwestern United States. I found strong species differences in drought tolerance. Lower elevation species that grow in warmer ambient conditions died earlier (e.g. ponderosa pine in 10 weeks) than did higher elevation species from cooler ambient conditions (e.g. limber pine in 30 weeks). I also found that heatwave exposure had a minor effect on tree mortality, which was most pronounced among higher elevation species (e.g. limber pine died 2.7 weeks earlier). This study suggests that droughts will play a leading role in juvenile tree mortality and will most directly impact species at warmer climate thresholds. These drought tolerances could shift forest species composition across a landscape as droughts become more frequent and severe with climate change.
+> I graduated in December of 2022 as an M.S. in Natural Resources Studies, and an emphasis in Fire Ecology. I tested the tolerance of five tree species from southwestern montane environments to both droughts and heatwaves. I found strong species differences in drought tolerance among juvenile trees. Lower elevation species that grow in warmer ambient conditions died earlier (e.g. ponderosa pine in 10 weeks) than did higher elevation species from cooler ambient conditions (e.g. limber pine in 30 weeks). I also found that heatwave exposure had a minor effect on tree mortality, although was most pronounced among higher elevation species (e.g. limber pine died 2.7 weeks earlier). This study suggests that droughts will play a leading role in juvenile tree mortality and will most directly impact species at warmer climate thresholds.
 >
 > Original Research: 
 > [UA Publication](https://alexandralalor.github.io/files/research/2023_Lalor_Frontiers.pdf)
