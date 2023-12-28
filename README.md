@@ -16,9 +16,12 @@
 - change first page of website
 - link tabs with content
 
-## _includes/head/custom.html
+## _includes
 
+/head/custom.html
 - favicon referencing (icon on web tabs). Images go in images folder
+/author-profile.html
+- added link to Loop profile in sidebar (must also change _config.yml)
 
 ## assets
 
