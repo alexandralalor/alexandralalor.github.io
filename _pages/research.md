@@ -7,14 +7,6 @@ author_profile: true
 
 | Fire Ecology | Dendrochronology | Forest Regeneration |
 |:------------:|:----------------:|:-------------------:|
-| ![research-4a](http://alexandralalor.github.io/images/research/research-4a.jpg){:height="300px" width="300px"} | ![research-2a](http://alexandralalor.github.io/images/research/research-2a.jpg){:height="300px" width="300px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="300px" width="300px"} |
-
-| Fire Ecology | Dendrochronology | Forest Regeneration |
-|:------------:|:----------------:|:-------------------:|
-| <i class="fa fa-fire fa-5x" aria-hidden="true"></i> |  | <i class="fa fa-tree fa-5x" aria-hidden="true"></i> |
-
-| Fire Ecology | Dendrochronology | Forest Regeneration |
-|:------------:|:----------------:|:-------------------:|
 | ![Fire_bw](http://alexandralalor.github.io/images/Fire_bw.png) | ![TreeRing_bw](http://alexandralalor.github.io/images/TreeRing_bw.png) | ![Forest_bw](http://alexandralalor.github.io/images/Forest_bw.png) |
 
 
