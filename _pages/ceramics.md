@@ -90,13 +90,13 @@ Aside from research, I also do ceramics!
 
   <div class="mySlides fade">
     <div class="numbertext">13 / 14</div>
-    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-14.jpg" style="width:100%">
+    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-13.jpg" style="width:100%">
     <div class="text">cappuchino cup with wax resist squirrel design</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">14 / 14</div>
-    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-15.jpg" style="width:100%">
+    <img src= "http://alexandralalor.github.io/images/ceramics/ceramics-14.jpg" style="width:100%">
     <div class="text">mug</div>
   </div>
 
