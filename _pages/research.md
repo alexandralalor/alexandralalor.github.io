@@ -13,11 +13,9 @@ author_profile: true
 
 # Current Research
 
-## Lead Biological Science Technician
-### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
-> In the summer of 2023 I worked with the USGS in Sequoia-Kings Canyon National Parks. As a crew lead, I brought researchers into backcountry field sites to collect fuel data in recently burned and unburned Sequoia groves. This data looked at forest regeneration and seedling abundance, to see how these landscapes are recovering from recent fires.
-> 
->![research-7](http://alexandralalor.github.io/images/research/research-7.jpg)
+## Assistant Lead Fire Effects Monitor
+### Grand Canyon National Park, North Rim, AZ
+> In the winter of 2023 I joined Grand Canyon Fire Effects crew as an Assistant Lead and permanent employee! This position primarily involves summer field work to collect ecological field data post-wildfire. My responsibilities include program management, organizing field work, and data analysis to discover ecological patterns of forest recovery following fire.
 
 ## Master of Science in Natural Resources Studies
 ### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
@@ -31,9 +29,15 @@ author_profile: true
 
 # Past Research
 
-## Assistant Lead Fire Effects Monitor
+## Lead Biological Science Technician
+### [USGS Western Ecological Research Center](https://www.usgs.gov/centers/werc), Sequoia-Kings Canyon National Parks, Three Rivers, CA
+> In the summer of 2023 I worked with the USGS in Sequoia-Kings Canyon National Parks. As a crew lead, I brought researchers into backcountry field sites to collect fuel data in recently burned and unburned Sequoia groves. This data looked at forest regeneration and seedling abundance, to see how these landscapes are recovering from recent fires.
+> 
+>![research-7](http://alexandralalor.github.io/images/research/research-7.jpg)
+
+## Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
-> I joined the Fire Effects Monitoring crew at Grand Canyon National Park in 2020, and fell in love with it! The Fire Effects (FX) crew is responsible for monitoring vegetation change following prescribed burns and wildfires using long-term ecological plots. We collect forest data such as plot photos, tree growth, shrub abundance, plant species composition, fuel loading, and seedling counts. We also serve as wildland firefighters, with a particular focus on monitoring fire activity during prescribed burns. In 2021 I joined the FX crew as an Assistant Lead Monitor and took on responsibilities with program management, organizing field work, and data analysis. The depth of fire-related ecological data that this program maintains inspired me to return to graduate school to learn about fire ecology research.
+> I first joined the Fire Effects Monitoring crew at Grand Canyon National Park in 2020. The Fire Effects (FX) crew is responsible for monitoring vegetation change following prescribed burns and wildfires using long-term ecological plots. We collect forest data such as plot photos, tree growth, shrub abundance, plant species composition, fuel loading, and seedling counts. We also serve as wildland firefighters, with a particular focus on monitoring fire activity during prescribed burns. In 2021 I joined the FX crew as an Assistant Lead Monitor and took on responsibilities with program management, organizing field work, and data analysis. The depth of fire-related ecological data that this program maintains inspired me to return to graduate school to learn about fire ecology research.
 > 
 > Contributing Reports: 
 > [2020 Grand Canyon Fire Effects Annual Report](https://alexandralalor.github.io/files/research/2020_GRCA_FX-Report.pdf); 
@@ -41,7 +45,7 @@ author_profile: true
 > 
 >![research-5](http://alexandralalor.github.io/images/research/research-5.jpg)
 
-## Dendrochronology Intern and Fire Effects Monitor
+## Dendrochronology and Fire Effects Intern
 ### North Cascades National Park, Marblemount, WA
 > As a Scientist-in-Parks intern, I curated tree ring samples for a fire history study using dendrochronology. I also worked with the Fire Effects Monitoring crew, responsible for collecting forest vegetation data to monitor the effectiveness of prescribed fire treatments. During this time I became a qualified Wildland Firefighter and assisted in prescribed burn operations. I also worked with communication center radio dispatching and Search and Rescue operations within the park.
 > 
