@@ -42,8 +42,9 @@ Fierce Femmes and Notorious Liars,
 In the Dream House,
 The Body Keeps the Score,
 The Disordered Cosmos, 
+Pachinko,
 and
-Pachinko
+The Devil's Element
 
 # Resources
 
