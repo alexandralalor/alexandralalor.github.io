@@ -15,7 +15,7 @@ author_profile: true
 
 | Fire Ecology | Dendrochronology | Forest Regeneration |
 |:------------:|:----------------:|:-------------------:|
-| ![Fire_bw](http://alexandralalor.github.io/images/Fire_bw.png) | ![TreeRing_bw](http://alexandralalor.github.io/images/TreeRing_bw.png) | ![Forest_bw](http://alexandralalor.github.io/images/Forest_bw.jpg) |
+| ![Fire_bw](http://alexandralalor.github.io/images/Fire_bw.png) | ![TreeRing_bw](http://alexandralalor.github.io/images/TreeRing_bw.png) | ![Forest_bw](http://alexandralalor.github.io/images/Forest_bw.png) |
 
 
 -----
