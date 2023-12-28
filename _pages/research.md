@@ -11,7 +11,7 @@ author_profile: true
 
 | Fire Ecology | Dendrochronology | Forest Regeneration |
 |:------------:|:----------------:|:-------------------:|
-| <i class="fa fa-fire" aria-hidden="true"></i> | ![research-2a](http://alexandralalor.github.io/images/research/research-2a.jpg){:height="300px" width="300px"} | ![research-7a](http://alexandralalor.github.io/images/research/research-7a.jpg){:height="300px" width="300px"} |
+| <i class="fa fa-fire fa-5x" aria-hidden="true"></i> |  | <i class="fa fa-tree fa-5x" aria-hidden="true"></i> |
 
 
 -----
