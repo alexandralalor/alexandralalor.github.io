@@ -30,7 +30,7 @@ I believe mentorship is a key way to support future scientists from underreprese
 
 # Book Club
 
-Book clubs are a great way to keep reading with peers! Inspired by conversations started by *Braiding Sweetgrass*, we've read a number of though-provoking books, listed below.
+Book clubs are a great way to keep reading with peers! Inspired by conversations started by *Braiding Sweetgrass*, we've read a number of thought-provoking books, listed below.
 
 > Braiding Sweetgrass,
 Algorithms To Live By,
