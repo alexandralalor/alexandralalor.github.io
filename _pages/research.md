@@ -16,7 +16,7 @@ author_profile: true
 
 ## Assistant Lead Fire Effects Monitor
 ### Grand Canyon National Park, North Rim, AZ
-> In the winter of 2023 I joined Grand Canyon Fire Effects crew as an Assistant Lead and permanent employee. Our crew collects field data to discover ecological patters of forest recovery following fire, and my roles are to lead data collection, analyse data, and manage our research program. 
+> In the winter of 2023 I joined Grand Canyon Fire Effects crew as an Assistant Lead and permanent employee. Our crew collects field data to discover ecological patters of forest recovery following fire, and my roles are to lead data collection, analyze data, and manage our research program. 
 
 ## Master of Science in Natural Resources Studies
 ### School of Natural Resources and the Environment, University of Arizona, Tucson, AZ
