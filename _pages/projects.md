@@ -43,8 +43,10 @@ In the Dream House,
 The Body Keeps the Score,
 The Disordered Cosmos, 
 Pachinko,
-and
-The Devil's Element
+The Devil's Element,
+A General Theory of Love,
+and,
+Orphan Bachelors
 
 # Resources
 
