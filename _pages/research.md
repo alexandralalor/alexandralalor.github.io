@@ -16,7 +16,7 @@ author_profile: true
 
 ## Fire Ecologist
 ### Shenandoah National Park, Luray, VA
-> In 2025 I moved to the Northeast US to become the South Zone Fire Ecologist for a network of National Parks in the region.
+> In 2025 I became the South Zone Fire Ecologist for the Northeast Region of the National Park Service.
 
 ------
 
