@@ -17,6 +17,8 @@ author_profile: true
 ## Fire Ecologist
 ### Shenandoah National Park, Luray, VA
 > In 2025 I became the South Zone Fire Ecologist for the Northeast Region of the National Park Service.
+>
+>![research-9](http://alexandralalor.github.io/images/research/research-9.jpg)
 
 ------
 
